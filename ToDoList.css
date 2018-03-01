@@ -1,0 +1,35 @@
+div {outline: 1px solid black;
+    margin:0px auto;
+    width: 350px;
+    height: 32px;
+    position: relative;
+}
+#mainInput {width: 330px;
+      height: 15px;
+      border: 1px solid black;
+        padding: 5px;
+}
+
+#form {text-align: center;
+    padding-top: 5px;}
+
+p {position: absolute;
+    top: 7px;
+    left: 30px;
+    margin: 0px;
+}
+
+button {font-size: 16px;
+        font-weight: bold;
+        color: #CC0000;
+        border: 1px solid #CC0000;
+        border-radius: 50%;
+        background-color: white;
+        position: absolute;
+        top: 6px;
+        right: 5px;
+        cursor: pointer}
+
+.checkbox {position: absolute;
+           left: 5px;
+            top: 7px}
